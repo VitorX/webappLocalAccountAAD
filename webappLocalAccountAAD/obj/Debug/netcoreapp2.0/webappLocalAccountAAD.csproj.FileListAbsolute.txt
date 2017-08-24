@@ -1,0 +1,12 @@
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\bin\Debug\netcoreapp2.0\webappLocalAccountAAD.deps.json
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\bin\Debug\netcoreapp2.0\webappLocalAccountAAD.runtimeconfig.json
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\bin\Debug\netcoreapp2.0\webappLocalAccountAAD.runtimeconfig.dev.json
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\bin\Debug\netcoreapp2.0\webappLocalAccountAAD.dll
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\bin\Debug\netcoreapp2.0\webappLocalAccountAAD.pdb
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\obj\Debug\netcoreapp2.0\webappLocalAccountAAD.csprojResolveAssemblyReference.cache
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\obj\Debug\netcoreapp2.0\webappLocalAccountAAD.csproj.CoreCompileInputs.cache
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\obj\Debug\netcoreapp2.0\webappLocalAccountAAD.AssemblyInfoInputs.cache
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\obj\Debug\netcoreapp2.0\webappLocalAccountAAD.AssemblyInfo.cs
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\obj\Debug\netcoreapp2.0\webappLocalAccountAAD.dll
+C:\Users\v-fexue\Source\MyRepos\Azure\.netCore2.0\webappLocalAccountAAD\webappLocalAccountAAD\obj\Debug\netcoreapp2.0\webappLocalAccountAAD.pdb
